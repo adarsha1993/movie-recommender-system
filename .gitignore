@@ -1,0 +1,19 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Environment
+.env
+
+# macOS
+.DS_Store
+
+# Data/model artifacts
+data/raw/*
+data/processed/*
+data/interim/*
+models/*
+logs/*
+reports/figures/*
